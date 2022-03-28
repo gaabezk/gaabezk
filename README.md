@@ -1,6 +1,6 @@
 <br><br>
 <img align="right" height="590em"
-src="https://i.imgur.com/6frrKZb.png"/>
+src="https://i.imgur.com/SuOpd7Q.png"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Fernandes</h1>
 
