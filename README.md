@@ -1,22 +1,22 @@
 <br><br>
-<img align="right" height="590em"
+<img align="right" height="500em"
 src="https://i.imgur.com/12uYRpN.png"/>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Fernandes</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Fernandes</h1>
 
 - 🌱 I’m currently in a 5-month residency in Full Stack Web e Mobile Development, learning HTML, CSS, JavaScript, Java, Node.JS, React, React-Native, SQL, Android, and Swift
 <br><br>
-<p align="left">
+<p align="center">
 <img width="430em" src="https://github-readme-stats.vercel.app/api?username=gaabezk&show_icons=true&theme=vision-friendly-dark">
 <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabezk&layout=compact&theme=vision-friendly-dark">
 </p>
 
-<div style="display: inline_block" align="left"><br>
-  <img align="left" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="left" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<div style="display: inline_block" align="center"><br>
+  <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
   
   ### 
