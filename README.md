@@ -4,7 +4,7 @@ src="https://i.imgur.com/12uYRpN.png"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Fernandes</h1>
 
-- 🌱 I’m currently in a 5-month residency in Full Stack Web e Mobile Development, learning HTML, CSS, JavaScript, Java, Node.JS, React, React-Native, SQL, Android, and Swift
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="20px"> I’m currently in a 5-month residency in Full Stack Web e Mobile Development, learning HTML, CSS, JavaScript, Java, Node.JS, React, React-Native, SQL, Android, and Swift
 <br><br>
 <p align="center">
 <img width="430em" src="https://github-readme-stats.vercel.app/api?username=gaabezk&show_icons=true&theme=vision-friendly-dark">
