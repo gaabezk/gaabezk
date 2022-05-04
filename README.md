@@ -27,11 +27,11 @@ src="https://i.imgur.com/Umo0VRJ.png"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
 </div>
   
-  ### 
+
   
 <br><br>
 
-<p align="center" style="background:yellow">
+<p align="center">
  <a href="https://instagram.com/gabrielfern__" target="_blank">
  <img align="center" height="25" width="126" src="https://img.shields.io/badge/-gabrielfern__-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
