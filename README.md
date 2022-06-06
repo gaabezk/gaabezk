@@ -1,16 +1,17 @@
 <br><br>
-<img align="right" height="500em"
-src="https://i.imgur.com/Umo0VRJ.png"/>
+
+
+<img align="right" height="400px" src="https://i.imgur.com/Umo0VRJ.png"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Fernandes</h1>
 
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="20px"> I’m currently in a 5-month residency in Full Stack Development, learning Git, HTML, CSS, JavaScript, Node.JS, Java, React, React-Native, PostgreSQL, Android, and Swift
 <br><br>
 
-<div align="center"><br>
+<div>
   <a href="https://github.com/gaabezk">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gaabezk&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="133em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabezk&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=gaabezk&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabezk&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <br><br>
 <div align="center">
