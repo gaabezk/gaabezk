@@ -3,7 +3,7 @@
 
 <img align="right" height="400px" src="https://i.imgur.com/Umo0VRJ.png"/>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Fernandes</h1>
+<h1>Hi <img width="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">, I'm Gabriel Fernandes</h1>
 
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="20px"> I’m currently in a 5-month residency in Full Stack Development, learning Git, HTML, CSS, JavaScript, Node.JS, Java, React, React-Native, PostgreSQL, Android, and Swift
 <br><br>
