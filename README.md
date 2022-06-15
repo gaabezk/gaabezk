@@ -1,9 +1,8 @@
 <br><br>
 
-
 <img align="right" height="400px" src="https://i.imgur.com/iBkDXbT.png"/>
 
-<h1>Hi, I'm Gabriel Fernandes</h1>
+<h1 align="center">Hi <img width="35px" src="https://image.emojipng.com/109/13791109.png">, I'm Gabriel Fernandes</h1>
 
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="20px"> I’m currently in a 5-month residency in Full Stack Development, learning Git, HTML, CSS, JavaScript, Node.JS, Java, React, React-Native, PostgreSQL, Android, and Swift
 <br><br>
