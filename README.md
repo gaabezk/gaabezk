@@ -1,7 +1,7 @@
 <br><br>
 
 
-<img align="right" height="400px" src="https://i.imgur.com/Umo0VRJ.png"/>
+<img align="right" height="400px" src="https://i.imgur.com/iBkDXbT.png"/>
 
 <h1>Hi, I'm Gabriel Fernandes</h1>
 
