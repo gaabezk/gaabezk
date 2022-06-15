@@ -8,7 +8,7 @@
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="20px"> I’m currently in a 5-month residency in Full Stack Development, learning Git, HTML, CSS, JavaScript, Node.JS, Java, React, React-Native, PostgreSQL, Android, and Swift
 <br><br>
 
-<div>
+<div align="center">
   <a href="https://github.com/gaabezk">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=gaabezk&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabezk&layout=compact&langs_count=7&theme=midnight-purple"/>
