@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img width="35px" src="https://image.emojipng.com/109/13791109.png">, I'm Gabriel Fernandes</h1>
 
-- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="20px"> I am a full stack developer, learning Git, HTML, CSS, JavaScript, Node.JS, Java, React, React-Native, PostgreSQL, Android, and Swift
+- <img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="20px"> I'm a Full Stack Developer
 <br><br>
 
 <div align="center">
