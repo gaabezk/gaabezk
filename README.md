@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img width="35px" src="https://image.emojipng.com/109/13791109.png">, I'm Gabriel Fernandes</h1>
 
-- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="20px"> I’m currently in a 5-month residency in Full Stack Development, learning Git, HTML, CSS, JavaScript, Node.JS, Java, React, React-Native, PostgreSQL, Android, and Swift
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="20px"> I am a full stack developer, learning Git, HTML, CSS, JavaScript, Node.JS, Java, React, React-Native, PostgreSQL, Android, and Swift
 <br><br>
 
 <div align="center">
@@ -25,7 +25,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
 </div>
   
 
