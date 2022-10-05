@@ -4,7 +4,17 @@
 
 <h1 align="center">Hi <img width="35px" src="https://image.emojipng.com/109/13791109.png">, I'm Gabriel Fernandes</h1>
 
-- <img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="20px"> I'm a Full Stack Developer
+``` js
+var developer = {
+    "name": "Gabriel Fernandes",
+    "profiles": {
+        "linkedIn": "https://linkedin.com/in/gabezk",
+        "instagram": "https://instagram.com/gabrielfern__/"
+    },
+    "homepage": "https://github.com/gaabezk"
+}
+console.log(developer)
+```
 <br><br>
 
 <div align="center">
