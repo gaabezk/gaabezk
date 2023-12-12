@@ -3,7 +3,8 @@
 <img align="right" height="400px" src="https://i.imgur.com/iBkDXbT.png"/>
 
 <h1 align="center">Hi <img width="35px" src="https://image.emojipng.com/109/13791109.png">, I'm Gabriel Fernandes</h1>
-![image](https://github.com/gaabezk/gaabezk/assets/97479003/9b01efc8-ff0d-460c-940e-b6f73695a66f)
+![rowingat-rowing](https://github.com/gaabezk/gaabezk/assets/97479003/066d2c5c-a005-42e1-9378-5b1210241354)
+
 
 ``` js
 var developer = {
